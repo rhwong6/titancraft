@@ -13,7 +13,7 @@ With official copy of Minecraft Java edition:
 8. Insert "titancraft.jar" in "mods" folder (in repository "titancraft-release" folder)
 9. Run Minecraft using 1.17.1 modded profile
 
-TEST IN DEVELOPER MODE
+TEST IN DEVELOPER MODE:
 
 Windows:
 1. Open command prompt
