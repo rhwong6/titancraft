@@ -10,7 +10,7 @@ With official copy of Minecraft Java edition:
 5. Open file explorer and navigate directory to "%appdata%"
 6. Enter the ".minecraft" folder
 7. Navigate to "mods" folder (create new folder named "mods" if one does not exist
-8. Insert "titancraft.jar" in "mods" folder (in repository "titancraft-release" folder)
+8. Insert "titancraft.jar" (in repository "titancraft-release" folder) in "mods" folder
 9. Run Minecraft using 1.17.1 modded profile
 
 TEST IN DEVELOPER MODE:
