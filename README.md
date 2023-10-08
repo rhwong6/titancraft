@@ -13,14 +13,14 @@ With official copy of Minecraft Java edition:
 8. Insert "titancraft.jar" (in repository "titancraft-release" folder) in "mods" folder
 9. Run Minecraft using 1.17.1 modded profile
 
-TEST IN DEVELOPER MODE:
+TEST IN DEVELOPER MODE (this will download dependencies such as Minecraft Forge and gradlew):
 
 Windows:
 1. Open command prompt
 2. Navigate to source code directory (repository "titancraft-source-code" folder)
-3. Run command "gradle.bat runClient"
+3. Run command "gradlew runClient"
 
 Mac/linux:
 1. Open terminal
-2. navigate to source code directory (repository "titancraft-source-code" folder)
+2. Navigate to source code directory (repository "titancraft-source-code" folder)
 3. Run command "gradlew runClient"
